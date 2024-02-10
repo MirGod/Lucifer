@@ -1,5 +1,7 @@
 #include<stdio.h>
 int main()
 {  
-    printf("Danial Hossain Dani");
+   int x;
+   scanf("%d",&x);
+   printf("%d",x);
 }
